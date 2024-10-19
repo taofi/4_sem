@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name><![CDATA[John Doe]]></name>
+        <email><![CDATA[john@example.com]]></email>
+    </user>
+    <user>
+        <name><![CDATA[Jane Doe]]></name>
+        <email><![CDATA[jane@example.com]]></email>
+    </user>
+</users>

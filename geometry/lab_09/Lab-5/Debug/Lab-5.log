@@ -1,0 +1,15 @@
+﻿  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\4_sem\geometry\lab_09\Lab-5\LibPyramid.h(167,26): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "RGB"
+  (компиляция исходного файла "main.cpp")
+  
+D:\4_sem\geometry\lab_09\Lab-5\CMainWnd.h(197,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\4_sem\geometry\lab_09\Lab-5\CMainWnd.h(198,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\4_sem\geometry\lab_09\Lab-5\CMainWnd.h(199,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  Lab-5.vcxproj -> D:\4_sem\geometry\lab_09\Debug\Lab-5.exe

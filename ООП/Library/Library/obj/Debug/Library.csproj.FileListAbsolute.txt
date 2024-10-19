@@ -1,0 +1,14 @@
+D:\4_sem\ООП\Library\Library\bin\Debug\Library.exe.config
+D:\4_sem\ООП\Library\Library\bin\Debug\Library.exe
+D:\4_sem\ООП\Library\Library\bin\Debug\Library.pdb
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.exe
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.pdb
+D:\4_sem\ООП\Library\Library\bin\Debug\Newtonsoft.Json.dll
+D:\4_sem\ООП\Library\Library\bin\Debug\Newtonsoft.Json.xml
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.csproj.CopyComplete
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.MainForm.resources
+D:\4_sem\ООП\Library\Library\obj\Debug\Library.FindingForm.resources

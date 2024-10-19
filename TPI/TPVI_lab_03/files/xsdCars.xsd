@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://msiter.ru"
+           targetNamespace="http://msiter.ru"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
+
+    <xs:simpleType name="truckBodyType" final="restriction" >
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="TILT" />
+            <xs:enumeration value="ALL_METAL" />
+            <xs:enumeration value="ISOTHERMAL" />
+            <xs:enumeration value="REFRIGERATORS" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="passengerBodyType" final="restriction" >
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="SEDAN" />
+            <xs:enumeration value="COUPE" />
+            <xs:enumeration value="HATCHBACK" />
+            <xs:enumeration value="FASTBACK" />
+            <xs:enumeration value="CROSSOVER" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:element name="cars">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="PassengerCar" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="enginePower" type="xs:integer"/>
+                            <xs:element name="maxSpeed" type="xs:integer"/>
+                            <xs:element name="fuelConsumption" type="xs:integer"/>
+                            <xs:element name="company" type="xs:string"/>
+                            <xs:element name="cost" type="xs:integer"/>
+                            <xs:element name="bodyType" type="passengerBodyType"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Truck" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="enginePower" type="xs:integer"/>
+                            <xs:element name="maxSpeed" type="xs:integer"/>
+                            <xs:element name="fuelConsumption" type="xs:integer"/>
+                            <xs:element name="company" type="xs:string"/>
+                            <xs:element name="cost" type="xs:integer"/>
+                            <xs:element name="bodyType" type="truckBodyType"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

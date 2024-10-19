@@ -1,0 +1,32 @@
+.table_style{
+    width: 100%;
+}
+
+.table_style th{
+    border: 1px solid black;
+}
+
+body{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+.add_from, .edit_from{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 100%;
+}
+
+.add_from{
+    grid-template-rows: 50px repeat(4, 30px);
+}
+.edit_from{
+    grid-template-rows: 50px repeat(5, 30px);
+}
+
+
+.navigation_button{
+    width: 150px;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+    <filter>
+        <filter-name>StatusFilter</filter-name>
+        <filter-class>com.example.lab9.StatusFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>StatusFilter</filter-name>
+        <servlet-name>loginServlet</servlet-name>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>LogFilter</filter-name>
+        <filter-class>com.example.lab9.LogFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>LogFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+
+    <servlet>
+        <servlet-name>Second7Serv</servlet-name>
+        <init-param>
+            <param-name>param</param-name>
+            <param-value>init param</param-value>
+        </init-param>
+        <servlet-class>com.example.lab9.Second7Servlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Second7Serv</servlet-name>
+        <url-pattern>/Second7Servlet</url-pattern>
+    </servlet-mapping>
+</web-app>

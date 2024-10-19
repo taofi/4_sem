@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"by.belstu.it","c":"JavaTest","l":"JavaTest()","u":"%3Cinit%3E()"},{"p":"by.belstu.it","c":"JavaTest","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"by.belstu.it","c":"JavaTest","l":"ops"},{"p":"by.belstu.it","c":"JavaTest","l":"uip"}];updateSearchResults();

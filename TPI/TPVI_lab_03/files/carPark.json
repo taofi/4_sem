@@ -1,0 +1,1 @@
+{"carArrayList":[{"bodyType":"COUPE","enginePower":30,"maxSpeed":100,"fuelConsumption":2,"company":"LADA","cost":500},{"enginePower":90,"maxSpeed":180,"fuelConsumption":12,"company":"BMW","cost":15000,"bodyType":"TILT"},{"bodyType":"SEDAN","enginePower":60,"maxSpeed":220,"fuelConsumption":6,"company":"BMW","cost":2000}]}

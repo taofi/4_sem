@@ -1,0 +1,114 @@
+28.02.2024 19:07:21 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 19:07:21 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 19:07:49 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 19:07:49 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 19:07:49 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:13:36 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 19:13:36 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:15:51 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 19:15:51 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 19:17:00 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 19:17:00 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 19:19:55 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 19:19:55 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 19:20:18 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 19:20:18 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 20:00:05 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 20:00:05 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 20:10:21 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 20:10:21 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 20:10:35 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 20:10:35 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 20:11:06 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 20:11:06 [main] INFO  by.vorovich.third.main.Main  - program completed
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.main.Main  - Starting program_____________________________
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park.CarPark  - car added
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.car_park_manager.CarParkManager  - new carpark generated
+28.02.2024 20:35:52 [main] ERROR by.vorovich.third.main.Main  - Car must have value
+28.02.2024 20:35:52 [main] INFO  by.vorovich.third.main.Main  - program completed

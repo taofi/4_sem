@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <parameter name="findSubject" value="js" />
+    <parameter name="isEmpty" value="true" />
+    <test name="MailTest">
+        <classes>
+            <class name="test.UnitTest"/>
+        </classes>
+    </test>
+</suite>

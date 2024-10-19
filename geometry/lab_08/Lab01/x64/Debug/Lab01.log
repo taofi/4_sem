@@ -1,0 +1,15 @@
+﻿  ChildView.cpp
+  CMatrix.cpp
+  Lab06.cpp
+  LibGraph.cpp
+  LibSurface.cpp
+  MainFrm.cpp
+  stdafx.cpp
+  Создание кода...
+D:\4_sem\geometry\lab_08\Lab01\ChildView.cpp(5,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab06.pch: No such file or directory,
+D:\4_sem\geometry\lab_08\Lab01\CMatrix.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab06.pch: No such file or directory,
+D:\4_sem\geometry\lab_08\Lab01\Lab06.cpp(5,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab06.pch: No such file or directory,
+D:\4_sem\geometry\lab_08\Lab01\LibGraph.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab06.pch: No such file or directory,
+D:\4_sem\geometry\lab_08\Lab01\LibSurface.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab06.pch: No such file or directory,
+D:\4_sem\geometry\lab_08\Lab01\MainFrm.cpp(5,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab06.pch: No such file or directory,
+D:\4_sem\geometry\lab_08\Lab01\stdafx.cpp(6,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab06.pch: No such file or directory,

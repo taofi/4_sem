@@ -1,0 +1,14 @@
+
+*.ndf
+*.mdf
+*.ldf
+*.exe
+
+*.ipch
+
+*.sln
+*.pch
+*.rar
+
+.vs/
+.idea/

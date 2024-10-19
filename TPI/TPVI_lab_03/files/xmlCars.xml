@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Cars>
+    <PassengerCar enginePower="60" maxSpeed="220" fuelConsumption="6" company="BMW" cost="2000" bodyType="PassengerBodyType.SEDAN"/>
+    <PassengerCar enginePower="30" maxSpeed="100" fuelConsumption="2" company="LADA" cost="500" bodyType="PassengerBodyType.COUPE"/>
+    <Truck enginePower="90" maxSpeed="180" fuelConsumption="12" company="BMW" cost="15000" bodyType="TruckBodyType.TILT"/>
+</Cars>

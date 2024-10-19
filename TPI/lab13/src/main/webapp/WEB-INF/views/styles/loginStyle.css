@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form_container{
+    display: grid;
+    grid-template-columns: repeat(2, 120px);
+    grid-template-rows: 70px repeat(2, 40px);
+}
+
+.form_container label{
+    grid-column: span 2;
+}
+
+.form_container input{
+    margin: 10px;
+}

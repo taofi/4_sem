@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>lab4_5</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Fonts\PTSansNarrow-Bold.ttf" />
+    <None Remove="Resources\Fonts\PTSansNarrow-Regular.ttf" />
+    <None Remove="Resources\PTSansNarrow-Bold.ttf" />
+    <None Remove="Resources\PTSansNarrow-Regular.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Fonts\PTSansNarrow-Bold.ttf" />
+    <Resource Include="Resources\Fonts\PTSansNarrow-Regular.ttf" />
+  </ItemGroup>
+
+</Project>
